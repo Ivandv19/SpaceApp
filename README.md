@@ -35,8 +35,14 @@ SpaceAPP es una aplicación web diseñada para explorar imágenes y contenido re
 - Este proyecto fue desarrollado como parte de un ejercicio de desarrollo web.
 - Las imágenes utilizadas fueron obtenidas de recursos gratuitos de Internet.
 - Utilización de la API de la NASA para acceder a datos y contenido relacionado con el espacio.
-- Desarrollado por [Alura Latam](https://www.alura.com.br/).
+- Desarrollado por [Alura Latam](https://www.linkedin.com/company/alura-latam/).
 - Desarrollado por [Ivan Cruz](https://www.linkedin.com/in/ivan-cruz-1906mx/).
+
+
+## Despliegue
+
+El sitio web está desplegado en Vercel y se puede acceder a través del siguiente enlace: [SpaceAPP](https://space-app-kohl.vercel.app/).
+
 
 ## Licencia
 
