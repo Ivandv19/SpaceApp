@@ -1,12 +1,12 @@
-@media screen and (max-width: 851px){
+@media screen and (max-width: 851px) {
 
-    .header__logo{
+    .header__logo {
         margin: 0.8rem;
         height: 1%;
         width: 30%;
     }
-    
-    .header__input{
+
+    .header__input {
         width: 45%;
         height: 5%;
         margin: 2% 3% 2% 2%;
@@ -14,45 +14,105 @@
         align-self: center;
     }
 
-    
-    .card{
-        height: 15rem;
-        width: 40%;
-    } 
-    
-    .card__image{
+    .card__section {
         width: 100%;
-        height: 80%;
-    } 
-    
-    .card__title{
-        font-size: 12px;
-        
+        height: auto;
+        margin: 0;
+        padding: 25px 10px;
+        box-sizing: border-box;
     }
 
-    .card__subtitle{
+    .ul__cards {
+        width: 100%;
+        height: auto;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 25px 0;
+        box-sizing: border-box;
+        gap: 25px;
+    }
+
+
+    .card {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+    }
+
+    .card__image {
+        width: 100%;
+        height: 80%;
+    }
+
+    .card__title {
+        width: 100%;
+        padding: 15px;
+        margin: 0;
+        font-size: 15px;
+
+    }
+
+    .card__subtitle {
         display: none;
     }
 
-    .lista__menu{
+    .lista__menu {
         margin-left: 10%;
         font-size: 12px;
-          
+
     }
 
-    .gallery__text{
+    .gallery__text {
         font-size: 14px;
     }
 
-    ::placeholder{
+    ::placeholder {
         font-size: 12px;
         margin: 3%;
     }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        background-color: var(--main-color);
+        gap: 15px;
+        padding: 15px 15px;
+
+    }
+
+    .footer__icons {
+        margin: 0;
+        width: 150px;
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+
+    .fa-twitter {
+        margin: 0;
+    }
+
+
+
+    .footer__text {
+        font-size: 15px;
+        margin: 0;
+        text-align: center;
+    }
 }
- 
 
 
-@media screen and (max-width: 526px){
+
+@media screen and (max-width: 526px) {
 
     body {
         display: flex;
@@ -64,13 +124,13 @@
         flex-direction: column;
     }
 
-    .header__logo{
+    .header__logo {
         margin: 0.8rem;
         height: 1%;
         width: 30%;
     }
-    
-    .header__input{
+
+    .header__input {
         width: 92%;
         height: 5%;
         margin: 2% 3% 2% 2%;
@@ -78,74 +138,98 @@
         align-self: center;
     }
 
-    .banner{
+    .banner {
         display: flex;
         flex-direction: column;
         width: 96%;
-        margin: 1% ;
-    }
-
-    .card__section{
-        width: 94%;
-        margin-left: 4%;
-    }
-
-    .card{
-        height: 8rem;
-        width: 47%;
         margin: 1%;
-    } 
-    
-    .card__image{
+    }
+
+    .card__section {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+    }
+
+    .ul__cards {
+        width: 100%;
+        height: auto;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 25px 0;
+        box-sizing: border-box;
+        gap: 25px;
+
+    }
+
+    .card {
+        height: 100%;
+        width: 100%;
+
+    }
+
+    .card__image {
         width: 100%;
         height: 80%;
-    } 
-    
-    .card__title{
-        font-size: 10px;
-        
     }
 
-    .lista__menu{
+    .card__title {
+        width: 100%;
+        padding: 15px;
+        margin: 0;
+        font-size: 15px;
+    }
+
+    .lista__menu {
         display: none;
-          
+
     }
 
-    .gallery__text{
+    .gallery__text {
         font-size: 14px;
     }
 
-    ::placeholder{
+    ::placeholder {
         font-size: 12px;
     }
 
-    .footer{
+    .footer {
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        background-color: var(--main-color);
+        gap: 15px;
+        padding: 15px 15px;
+
+
+    }
+
+    .footer__icons {
+        margin: 0;
+        width: 150px;
+        position: relative;
         display: flex;
         flex-direction: row;
-        align-self: flex-end;
-        width: 100%;
-        height: 8vh;
-        background-color: var(--main-color);;
-        justify-content: space-between;
+        justify-content: space-around;
         align-items: center;
-    }
-    
-    .footer__icons{
-        width: 10%;
-    
-    }
-    
-    .fa-facebook{
-        margin-left: 50%;
-       
-        
 
-        
     }
 
-    .footer__text{
-        font-size: 10px;
-        
-    
+    .fa-twitter {
+        margin: 0;
+    }
+
+    .footer__text {
+        font-size: 15px;
+        margin: 0;
+        text-align: center;
     }
 }
