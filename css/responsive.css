@@ -1,5 +1,12 @@
 @media screen and (max-width: 851px) {
 
+    .header{
+        padding: 10px 20px;
+    }
+    main{
+        padding: 120px 0 0 0;
+    }
+
     .header__logo {
         margin: 0.8rem;
         height: 1%;
@@ -136,11 +143,14 @@
         padding: 10px 0;
 
     }
+    main{
+        padding: 150px 0 0 0;
+    }
 
     .header__logo {
 
         margin: 0;
-        min-width: 70%;
+        min-width: 50%;
         height: auto;
         padding: 10px;
     }
