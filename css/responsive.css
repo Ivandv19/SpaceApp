@@ -133,9 +133,11 @@
 
 @media (max-width: 599px) {
 
+
     body {
         display: flex;
         flex-direction: column;
+
     }
 
     .header {
@@ -143,9 +145,13 @@
         flex-direction: column;
         padding: 20px 0;
 
+
+
     }
     main{
         padding: 150px 0 50px 0;
+
+    
     }
 
     .header__logo {
@@ -169,10 +175,6 @@
         display: flex;
         flex-direction: column;
         width: 100%;
-        box-sizing: border-box;
-        margin: 0;
-        padding: 0;
-
     }
 
     .banner__image {
@@ -198,7 +200,6 @@
         align-items: center;
         justify-content: center;
         padding: 25px 0;
-        box-sizing: border-box;
         gap: 25px;
 
     }
@@ -206,6 +207,7 @@
     .card {
         height: 100%;
         width: 100%;
+        margin: 0;
 
     }
 
@@ -219,7 +221,6 @@
         padding: 15px;
         margin: 0;
         font-size: 15px;
-        box-sizing: border-box;
     }
 
     .grouping {
@@ -264,7 +265,6 @@
         height: auto;
         background-color: var(--main-color);
         padding: 50px;
-        box-sizing: border-box;
     }
 
     .footer__icons {
