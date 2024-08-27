@@ -8,7 +8,7 @@ SpaceAPP es una aplicación web diseñada para explorar imágenes y contenido re
 - Disfruta de una interfaz intuitiva y fácil de usar.
 
 ## Uso
-1. **Visualización del Proyecto:** Instala el repositorio de manera local o visita el enlace desplegado en [Vercel](https://space-app-kohl.vercel.app/).
+1. **Visualización del Proyecto:** Para visualizar el proyecto, sigue los pasos que se encuentran en la sección [Instalación](#instalación) o visita el enlace desplegado en [Vercel](https://space-app-kohl.vercel.app/).
 2. **Explora el contenido:** Navega a través de la galeria y visualiza el contenido.
 
 
