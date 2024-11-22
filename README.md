@@ -1,5 +1,7 @@
 # SpaceAPP
 
+## Descripción
+
 SpaceAPP es una aplicación web diseñada para explorar imágenes y contenido relacionado con el espacio. Esta aplicación te permite descubrir las maravillas del universo desde la comodidad de tu navegador.
 
 ## Características
