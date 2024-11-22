@@ -41,7 +41,7 @@ SpaceAPP es una aplicación web diseñada para explorar imágenes y contenido re
 
 ## Despliegue
 
-El sitio web está desplegado en Vercel y se puede acceder a través del siguiente enlace: [SpaceAPP](https://space-app-kohl.vercel.app/).
+El sitio web está desplegado en Vercel y se puede acceder a través del siguiente enlace: [SpaceAPP]( https://space-app-kohl.vercel.app/ ).
 
 
 ## Licencia
