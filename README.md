@@ -14,10 +14,10 @@ SpaceAPP es una aplicación web diseñada para explorar imágenes y contenido re
 
 ## Tecnologías utilizadas
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **API de la NASA** (para obtener datos y contenido relacionado con el espacio)
+- HTML
+- CSS
+- JavaScript
+- NASA Api
 
 ## Instalación
 
